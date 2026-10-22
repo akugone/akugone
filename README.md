@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm Martin, Head of DevRel and ex founder (12 yrs). From web3 privacy to AI agents, I help devs adopt hard tech. Building in public.
+I'm Martin, Head of DevRel & Customer Success and ex founder (12 yrs). From web3 privacy to AI agents, I help devs adopt hard tech. Building in public.
 
 Based in Lyon, open to DevRel and Forward Deployed Engineer roles.
 
